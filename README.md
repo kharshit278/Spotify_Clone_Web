@@ -53,7 +53,7 @@ You can run docker to take a peek at our project. Before starting, please make s
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/kharshit278/Spotify_Clone_Web.git
    ```
 2. Change directory to the docker folder
    ```sh
